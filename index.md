@@ -24,10 +24,7 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 ## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
 
 
-BrainStation Project
-
-
-<H4> Keywords:</H4> [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
+* Keywords: [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
 
 BrainStation Project: Created for the Google Data Analysis Certificate, it follows six phases: Ask, Prepare, Process, Analyze, Share, and Act.
 
