@@ -17,8 +17,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <img src="assets/img/Tools.png?raw=true"/>
 
-You’ll find projects I’ve built using a diverse toolkit, tackling interesting problems based on publicaly avaiable datasets. These projects showcase my ability to utilize various skills and tools to extract valuable insights from data. All projects are available for exploration on GitHub. Feel free to click on the project titles to dive deeper into my work!
-
 ---
 
 ## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
@@ -26,13 +24,17 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 **Keywords:** Python (pandas, matplotlib), MySQL Database creation, Exploratory Data Analysis (EDA), Tableau Data Visualisation, Business Case Study.
 
-* **BrainStation Project:** Created for the Data Analitic Certificate, it follows six phases: Prepare, Process, Analyze, and presentation.
+* **BrainStation Project:** Created for the Data Analytics Certificate, it follows six phases: Prepare, Process, Analyze, and presentation.
 
 * **In-depth Analysis:** Examined  data from , identifying patterns through exploratory data analysis (EDA) techniques.
 
 * **Actionable Insights:** Provides recommendations for business cases, leveraging data-driven insights to optimize product offerings and user experiences.
 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
+
+* [EcoCapture](https://github.com/Rosh00L/EcoCapture)
+
+---
 
 <!--
 > This is a blockquote following a header.
