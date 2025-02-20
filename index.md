@@ -19,6 +19,8 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 <img src="assets/img/Tools.png?raw=true"/>
 
+---
+
 ## BrainStation Project
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
