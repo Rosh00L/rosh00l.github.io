@@ -20,9 +20,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > This is a blockquote following a header.
 > 
-### Large image
+<!--### Large image-->
 
-<img src="https://github.com/Rosh00L/rosh00l.github.io/tree/main/assets/img/PhotoHolidayP1.png?raw=true"/>
+<img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
