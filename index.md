@@ -26,6 +26,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
+<!--
 ### Header 3
 
 ```js
@@ -125,3 +126,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
