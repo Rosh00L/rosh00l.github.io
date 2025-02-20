@@ -14,6 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 
 # Data Analytics Portfolio
+
+You’ll find projects I’ve built using a diverse toolkit, tackling interesting problems based on publicaly avaiable datasets. These projects showcase my ability to utilize various skills and tools to extract valuable insights from data. All projects are available for exploration on GitHub. Feel free to click on the project titles to dive deeper into my work!
+
 <img src="assets/img/Tools.png?raw=true"/>
 
 ## BrainStation Project
