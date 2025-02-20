@@ -24,7 +24,7 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 ## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
 
 
-**Keywords:** Python (pandas, matplotlib), MySql Database createion, Exploratory Data Analysis (EDA), Tablue Data Visualization, Business Case Study
+**Keywords:** Python (pandas, matplotlib), MySQL Database creation, Exploratory Data Analysis (EDA), Tableau Data Visualisation, Business Case Study.
 
 * **BrainStation Project:** Created for the Data Analitic Certificate, it follows six phases: Prepare, Process, Analyze, and presentation.
 
