@@ -22,17 +22,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Analysing photography holidays in Sri Lanka
 
 
-**Keywords:** Python (pandas, matplotlib), MySQL Database creation, Exploratory Data Analysis (EDA), Tableau Data Visualisation, Business Case Study.
+**Keywords:** Python (ETL, pandas, matplotlib), MySQL Database creation, Advanced SQL Queries, Exploratory Data Analysis (EDA), Sentiment Analysis, Advanced Tableau Data Visualization.
 
-* **BrainStation Project:** Created for the Data Analytics Certificate, it follows six phases: Prepare, Process, Analyze, and presentation.
+* **BrainStation Project:** Created for the Data Analytics Certification, it follows four phases: Prepare, Process, Analyze, and Present.
 
-* **In-depth Analysis:** Examined  data from , identifying patterns through exploratory data analysis (EDA) techniques.
+* **In-depth Analysis:** Examined data from data wrangling and identified patterns through exploratory data analysis (EDA) and sentiment analysis techniques.
 
-* **Actionable Insights:** Provides recommendations for business cases, leveraging data-driven insights to optimize product offerings and user experiences.
+* **Actionable Insights:** Provides recommendations for photography holidays, leveraging data-driven insights to optimise holiday package offerings and user experiences.
 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
-* [EcoCapture GitHub Repository](https://github.com/Rosh00L/EcoCapture)
+[Eco-Capture GitHub Repository](https://github.com/Rosh00L/EcoCapture)
 
 ---
 
