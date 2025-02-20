@@ -19,7 +19,10 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## BrainStation Project
 
 > This is a blockquote following a header.
->
+> ### Large image
+
+![Branching](/assets/img/PhotoHolidayP1.png)
+
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
@@ -98,9 +101,7 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
