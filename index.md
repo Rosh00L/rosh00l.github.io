@@ -26,9 +26,15 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 BrainStation Project
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-Keywords: Python (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
+<H1> Keywords: [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
+
+BrainStation Project: Created for the Google Data Analysis Certificate, it follows six phases: Ask, Prepare, Process, Analyze, Share, and Act.
+
+In-depth Analysis: Examined wellness data from Fitbit devices, identifying patterns through exploratory data analysis (EDA) techniques.
+
+Actionable Insights: Provides recommendations for business cases, leveraging data-driven insights to optimize product offerings and user experiences.
+
 
 > This is a blockquote following a header.
 > 
