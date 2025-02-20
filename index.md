@@ -21,9 +21,14 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 ---
 
-## [BrainStation Project](https://github.com/Rosh00L/EcoCapture)
+## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
+
+
+BrainStation Project
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+Keywords: Python (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
 
 > This is a blockquote following a header.
 > 
