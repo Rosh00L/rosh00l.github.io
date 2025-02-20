@@ -19,7 +19,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ---
 
-## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
+## Analysing photography holidays in Sri Lanka
 
 
 **Keywords:** Python (pandas, matplotlib), MySQL Database creation, Exploratory Data Analysis (EDA), Tableau Data Visualisation, Business Case Study.
@@ -32,7 +32,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
-* [EcoCapture](https://github.com/Rosh00L/EcoCapture)
+* [EcoCapture GitHub Repository](https://github.com/Rosh00L/EcoCapture)
 
 ---
 
