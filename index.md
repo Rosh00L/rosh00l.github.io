@@ -24,20 +24,23 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 ## [Analysing photography holidays in Sri Lanka](https://github.com/Rosh00L/EcoCapture)
 
 
-* **Keywords:** [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
+**Keywords:** Python (pandas, matplotlib), MySql Database createion, Exploratory Data Analysis (EDA), Tablue Data Visualization, Business Case Study
 
-BrainStation Project: Created for the Data Analitic Certificate, it follows six phases: Prepare, Process, Analyze, Share, and Act.
+* **BrainStation Project:** Created for the Data Analitic Certificate, it follows six phases: Prepare, Process, Analyze, and presentation.
 
-In-depth Analysis: Examined wellness data from Fitbit devices, identifying patterns through exploratory data analysis (EDA) techniques.
+* **In-depth Analysis:** Examined  data from , identifying patterns through exploratory data analysis (EDA) techniques.
 
-Actionable Insights: Provides recommendations for business cases, leveraging data-driven insights to optimize product offerings and user experiences.
-
-
-> This is a blockquote following a header.
-> 
-<!--### Large image-->
+* **Actionable Insights:** Provides recommendations for business cases, leveraging data-driven insights to optimize product offerings and user experiences.
 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
+
+<!--
+> This is a blockquote following a header.
+> 
+### Large image
+-->
+
+
 
 <!--
 * [Eco Capture GitHub Repository]
