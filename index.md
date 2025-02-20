@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > 
 ### Large image
 
-![Test](https://github.com/Rosh00L/rosh00l.github.io/blob/main/assets/img/PhotoHolidayP1.png)
+![Test](https://github.com/Rosh00L/rosh00l.github.io/tree/main/assets/img/PhotoHolidayP1.png)
 
 > When something is important enough, you do it even if the odds are not in your favor.
 
