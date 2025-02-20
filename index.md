@@ -48,7 +48,7 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 <!--
 When something is important enough, you do it even if the odds are not in your favor.
--->
+
 
 ### Header 3
 
@@ -149,3 +149,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
