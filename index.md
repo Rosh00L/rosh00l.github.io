@@ -32,9 +32,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 <!--
 * [Eco Capture GitHub Repository]
-
-
-> When something is important enough, you do it even if the odds are not in your favor.
+-->
+<!--
+When something is important enough, you do it even if the odds are not in your favor.
 
 
 ### Header 3
