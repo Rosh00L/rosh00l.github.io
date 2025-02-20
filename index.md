@@ -26,7 +26,7 @@ You’ll find projects I’ve built using a diverse toolkit, tackling interestin
 
 * Keywords: [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) (pandas, matplotlib, seaborn), Exploratory Data Analysis (EDA), Data Visualization, Business Case Study
 
-BrainStation Project: Created for the Google Data Analysis Certificate, it follows six phases: Ask, Prepare, Process, Analyze, Share, and Act.
+BrainStation Project: Created for the Data Analitic Certificate, it follows six phases: Prepare, Process, Analyze, Share, and Act.
 
 In-depth Analysis: Examined wellness data from Fitbit devices, identifying patterns through exploratory data analysis (EDA) techniques.
 
@@ -45,8 +45,8 @@ Actionable Insights: Provides recommendations for business cases, leveraging dat
 
 <!--
 When something is important enough, you do it even if the odds are not in your favor.
+-->
 
-<!--
 ### Header 3
 
 ```js
@@ -146,4 +146,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
--->
