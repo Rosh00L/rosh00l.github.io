@@ -33,7 +33,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
 <br>
-[Project Overview](https://rosh00l.github.io/EcoCapture/doc/Eco capture V1.0 04FEB25.pdf)
+[Project Overview](https://rosh00l.github.io/EcoCapture/blob/main/Doc/Eco%20capture%20%20V1.0%2004FEB25.pdf)
 <br>
 [Eco-Capture GitHub Repository](https://github.com/Rosh00L/EcoCapture)
 
