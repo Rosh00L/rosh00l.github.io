@@ -24,11 +24,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 **Keywords:** Python (ETL, pandas, matplotlib), MySQL Database creation, Advanced SQL Queries, Exploratory Data Analysis (EDA), Sentiment Analysis, Advanced Tableau Data Visualization.
 
-* **BrainStation Project:** Created as per the Data Analytics Certification requirements, it follows four phases: Prepare, Process, Analyze, and Present.
+* **BrainStation Project:** Created as per the Data Analytics Certification requirements, this project follows four phases: formulate a hypothesis about the data, refine the raw data into processed data, conduct statistical analysis, develop visuals, and present findings.
 
-* **In-depth Analysis:** Examined data from data wrangling and identified patterns through exploratory data analysis (EDA) and sentiment analysis techniques.
+* **In-depth Analysis:** Examined data through data wrangling and identified patterns using exploratory data analysis (EDA) and sentiment analysis techniques.
 
-* **Actionable Insights:** Provides recommendations for photography holiday makers and business cases leveraging data-driven insights to optimise holiday package offerings and user experiences.
+* **Actionable Insights:** Provides recommendations for photography holidaymakers and business cases leveraging data-driven insights to optimize holiday package offerings and user experiences.
 
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
