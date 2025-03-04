@@ -29,7 +29,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * **In-depth Analysis:** Examined data through data wrangling and identified patterns using exploratory data analysis (EDA) and sentiment analysis techniques.
 
 * **Actionable Insights:** Provides recommendations for photography holidaymakers and business cases leveraging data-driven insights to optimize holiday package offerings and user experiences.
-* **test**
+
 <img src="assets/img/PhotoHolidayP1.png?raw=true"/>
 
 <br>
