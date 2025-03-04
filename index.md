@@ -40,6 +40,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ---
 
 
-## Sales Analysis using Mock Data
+### Sales Analysis using Mock Data
 
 ---
