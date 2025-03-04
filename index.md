@@ -34,7 +34,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <br>
 [Project Overview](https://rosh00l.github.io/EcoCapture/)
-<br>
+<br>--<br>
 [Eco-Capture GitHub Repository](https://github.com/Rosh00L/EcoCapture)
 
 ---
