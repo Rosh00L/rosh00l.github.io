@@ -47,4 +47,4 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Creating an interactive dashboard using MySQL and Power BI
 
-<img src="Doc/img/Superstore Sales Data Analysis.png?raw=true"/>
+<img src="assets/img/Superstore Sales Data Analysis.png?raw=true"/>
