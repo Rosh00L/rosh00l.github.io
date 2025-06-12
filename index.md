@@ -51,4 +51,4 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 <br>
-[Eco-Capture GitHub Repository](https://github.com/Rosh00L/Sales_Data_Analysis)
+[Superstore Sales GitHub Repository](https://github.com/Rosh00L/Sales_Data_Analysis)
