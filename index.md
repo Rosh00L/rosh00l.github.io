@@ -4,12 +4,18 @@ layout: default
 
 # Data Analytics Portfolio
 
-<img src="assets/img/Tools.png?raw=true"/>
+
+## Interractive vital signs tables and figues
+
+<img src="assets/img/ADaM to posit.png?raw=true"/>
+
+
+**Keywords:** CDISC ADaM ADVS, R, shiny, GIthub and Posit Connect Cloud.
 
 ---
-
 ## Analysing photography holidays in Sri Lanka
 
+<img src="assets/img/Tools.png?raw=true"/>
 
 **Keywords:** Python (ETL, pandas, matplotlib), MySQL Database creation, Advanced SQL Queries, Exploratory Data Analysis (EDA), Sentiment Analysis, Advanced Tableau Data Visualization.
 
