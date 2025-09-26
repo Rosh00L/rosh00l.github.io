@@ -14,7 +14,7 @@ layout: default
 **Keywords:** CDISC ADaM ADVS, R, shiny, GIthub and Posit Connect Cloud.
 
 <br>
-[Interactive Vital Signs Tables and Figures] https://roshanr-live-vital-signs.share.connect.posit.cloud/
+[Interactive Vital Signs Tables and Figures] (https://roshanr-live-vital-signs.share.connect.posit.cloud/)
 <br>
 
 ---
