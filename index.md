@@ -1,6 +1,6 @@
 ---
 layout: default
-#---
+---
 
 # Data Analytics Portfolio
 ---
@@ -12,6 +12,7 @@ layout: default
 
 
 **Keywords:** CDISC-ADaM/ADVS, R, shiny, GIthub and Posit Connect Cloud.
+<br>
 <img src="assets/img/TF.png?raw=true"/>
 
 <br>
