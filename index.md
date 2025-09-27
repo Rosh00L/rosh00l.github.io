@@ -6,7 +6,7 @@ layout: default
 ---
 ---
 
-## Interactive Vital Signs Tables and Figures
+## Interactive Tables and Figures Demo Using Vital Signs (Demo)
 
 <img src="assets/img/ADaM to posit.png?raw=true"/>
 
@@ -14,7 +14,7 @@ layout: default
 **Keywords:** CDISC-ADaM/ADVS, R, shiny, GIthub and Posit Connect Cloud.
 
 <br>
-[Interactive Vital Signs Tables and Figures](https://roshanr-live-vital-signs.share.connect.posit.cloud)
+[Link to Interactive Tables and Figures Demo Using Vital Signs (Demo)](https://roshanr-live-vital-signs.share.connect.posit.cloud)
 <br>
 
 ---
