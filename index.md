@@ -9,9 +9,10 @@ layout: default
 
 <br>
 ## Setting Up Cybersecurity Analyst Lab at Home
-[Cybersecurity Analyst Home Lab](https://github.com/Rosh00L/Vulnerability_Assessment_Lab)
+[Cybersecurity Analyst Home Lab](https://github.com/Rosh00L/Vulnerability_Assessment_Lab/)
 <br>
 <br>
+
 ---
 
 ## Interactive Tables and Figures Using Vital Signs (Demo)
