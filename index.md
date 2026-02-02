@@ -9,7 +9,7 @@ layout: default
 
 
 ## Setting Up Cybersecurity Analyst Lab at Home
-[Cybersecurity Analyst Home Lab](https://github.com/Rosh00L/Vulnerability_Assessment_Lab/blob/main/README.md)
+[Cybersecurity Analyst Home Lab]
 <br>
 <br>
 
