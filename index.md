@@ -6,6 +6,13 @@ layout: default
 ---
 ---
 
+
+<br>
+## Setting Up Cybersecurity Analyst Lab at Home ##
+<br>
+[Cybersecurity Analyst Home Lab](https://github.com/Rosh00L/Vulnerability_Assessment_Lab)
+<br>
+
 ## Interactive Tables and Figures Using Vital Signs (Demo)
 
 <img src="assets/img/ADaM to posit.png?raw=true"/>
