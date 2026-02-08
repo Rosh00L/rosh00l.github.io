@@ -2,14 +2,14 @@
 layout: default
 ---
 
-# Data Analytics Portfolio
+# Cybersecurity and Data Analytics Portfolio
 ---
 ---
 
 
 ## Setting Up Cybersecurity Analyst Lab at Home
 
-<img src="assets/img/img/cyberSec.png?raw=true"/>
+<img src="assets/img/cyberSec.png?raw=true"/>
 [Project Overview](https://github.com/Rosh00L/Vulnerability_Assessment_Lab/)
 
 ---
