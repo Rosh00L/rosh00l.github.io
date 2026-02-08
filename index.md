@@ -9,6 +9,7 @@ layout: default
 
 ## Setting Up Cybersecurity Analyst Lab at Home
 
+<img src="assets/img/img/cyberSec.png?raw=true"/>
 [Project Overview](https://github.com/Rosh00L/Vulnerability_Assessment_Lab/)
 
 ---
