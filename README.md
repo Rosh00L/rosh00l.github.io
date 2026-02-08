@@ -2,12 +2,6 @@
 layout: default
 ---
 
-# Vulnerability Assessment Home Lab
-
-[Project Overview](https://rosh00l.github.io/Vulnerability_Assessment_Lab/)
-
----
-
 # Data Analytics Portfolio
 
 <img src="assets/img/Tools.png?raw=true"/>
