@@ -10,6 +10,12 @@ layout: default
 ## Setting Up Cybersecurity Analyst Lab at Home
 
 <img src="assets/img/cyberSec.png?raw=true"/>
+---
+
+# Building a Portable Kali Linux Desktop Environment
+
+<img src="assets/img/Linux.png?raw=true"/>
+
 [Project Overview](https://github.com/Rosh00L/Vulnerability_Assessment_Lab/)
 
 ---
@@ -17,7 +23,6 @@ layout: default
 ## Interactive Tables and Figures Using Vital Signs (Demo)
 
 <img src="assets/img/ADaM to posit.png?raw=true"/>
-
 
 **Keywords:** CDISC-ADaM/ADVS, R, shiny, GIthub and Posit Connect Cloud.
 <br>
