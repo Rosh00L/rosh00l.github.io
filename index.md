@@ -10,8 +10,8 @@ layout: default
 ## Setting Up Cybersecurity Analyst Lab at Home
 
 <img src="assets/img/cyberSec.png?raw=true"/>
----
 
+---
 ## Building a Portable Kali Linux Desktop Environment
 
 <img src="assets/img/Linux.png?raw=true"/>
